@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Snigdha Bali</h1>
 <h3 align="center">Building Tomorrow's Solutions</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snigdhabali21&label=Profile%20views&color=0e75b6&style=flat" alt="snigdhabali21" /> </p>
-- 🎓 Computer Science student with a passion for software development
-- 💡 Interested in automation, DevOps, and cloud computing
-- 🔧 Skilled in C++, Java, Python, SQL, and Docker
-- 🌱 Currently learning more about AWS and modern DevOps practices
-- 🤝 Open to collaboration on tech projects and hackathons
-- 📫 How to reach me **balisnigdha61@gmail.com**
-- 📄 Know about my experiences [https://github.com/snigdhabali21/snigdhabali21/blob/main/SnigdhaBali_KLETech%20University_BGM.pdf](https://github.com/snigdhabali21/snigdhabali21/blob/main/SnigdhaBali_KLETech%20University_BGM.pdf)
-- ⚡ Fun fact **I doodle while waiting for my code to compile.**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=snigdhabali21&label=Profile%20views&color=0e75b6&style=flat" alt="snigdhabali21" />
+</p>
+
+- 🎓 Computer Science student with a passion for software development  
+- 💡 Interested in automation, DevOps, and cloud computing  
+- 🔧 Skilled in C++, Java, Python, SQL, and Docker  
+- 🌱 Currently learning more about AWS and modern DevOps practices  
+- 🤝 Open to collaboration on tech projects and hackathons  
+- 📫 How to reach me: **balisnigdha61@gmail.com**  
+- 📄 Know about my experiences: [Resume](https://github.com/snigdhabali21/snigdhabali21/blob/main/SnigdhaBali_KLETech%20University_BGM.pdf)  
+- ⚡ Fun fact: I doodle while waiting for my code to compile.  
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snigdhabali21" alt="snigdhabali21" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
